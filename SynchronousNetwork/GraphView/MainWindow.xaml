@@ -1,0 +1,16 @@
+﻿<Window x:Class="GraphView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:graphView="clr-namespace:GraphView"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type graphView:NodeViewModel}">
+            <graphView:Node/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type graphView:LinkViewModel}">
+            <graphView:Link/>
+        </DataTemplate>
+    </Window.Resources>
+    <Canvas Name="MainCanvas">
+        <ItemsControl IsTabStop="False" ItemsSource="{Binding ShapeObjects}" Margin="0,0"/>
+    </Canvas>
+</Window>

@@ -1,0 +1,119 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronousNetwork", "SynchronousNetwork\SynchronousNetwork.csproj", "{01504F3A-BD1A-418D-8034-391D65D67895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch1_2_2", "Ch1_2_2\Ch1_2_2.csproj", "{70E67A58-3A9A-4DBD-9763-C37741E27474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch2_1_1", "Ch2_1_1\Ch2_1_1.csproj", "{28A390E2-9B0F-4F29-822C-5E2B2545EC33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaderElectionRing", "LeaderElectionRing\LeaderElectionRing.csproj", "{84753239-2A44-47EC-B432-FE22FE3799D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch2_3", "Ch2_3\Ch2_3.csproj", "{C1550A20-85B0-4006-8AE6-6DA22E17A15D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{9377843B-EDF7-410C-BCA4-6C0C8F1B0B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch3_1", "Ch3_1\Ch3_1.csproj", "{1B63A119-3E4D-49C4-818F-41C62AF21684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch3_2", "Ch3_2\Ch3_2.csproj", "{31928B7A-8650-4911-AF62-9526EAEFD6A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch3_3", "Ch3_3\Ch3_3.csproj", "{77B7E5AF-5146-4D52-9B5C-D510917181EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QSharp.Scheme.Classical.Graphs", "C:\Users\quanb_000\Documents\leisure\quanbenSoft\qsharp\QSharp\QSharp.Scheme.Classical.Graphs\QSharp.Scheme.Classical.Graphs.csproj", "{52A5C8BE-EF54-48E7-A170-F3E6C5561E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QSharpTest", "C:\Users\quanb_000\Documents\leisure\quanbenSoft\qsharp\QSharp\QSharpTest\QSharpTest.csproj", "{9D366B80-049D-4734-BA87-78FBA06B4876}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 12
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs25
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Ch1_2_2\\Ch1_2_2.csproj
+		SccProjectName1 = Ch1_2_2
+		SccLocalPath1 = Ch1_2_2
+		SccProjectUniqueName2 = Ch2_1_1\\Ch2_1_1.csproj
+		SccProjectName2 = Ch2_1_1
+		SccLocalPath2 = Ch2_1_1
+		SccProjectUniqueName3 = Ch2_3\\Ch2_3.csproj
+		SccProjectName3 = Ch2_3
+		SccLocalPath3 = Ch2_3
+		SccProjectUniqueName4 = Ch3_1\\Ch3_1.csproj
+		SccProjectName4 = Ch3_1
+		SccLocalPath4 = Ch3_1
+		SccProjectUniqueName5 = Graph\\Graph.csproj
+		SccProjectName5 = Graph
+		SccLocalPath5 = Graph
+		SccProjectUniqueName6 = LeaderElectionRing\\LeaderElectionRing.csproj
+		SccProjectName6 = LeaderElectionRing
+		SccLocalPath6 = LeaderElectionRing
+		SccProjectUniqueName7 = SynchronousNetwork\\SynchronousNetwork.csproj
+		SccProjectName7 = SynchronousNetwork
+		SccLocalPath7 = SynchronousNetwork
+		SccProjectUniqueName8 = Ch3_2\\Ch3_2.csproj
+		SccProjectName8 = Ch3_2
+		SccLocalPath8 = Ch3_2
+		SccProjectUniqueName9 = Ch3_3\\Ch3_3.csproj
+		SccProjectName9 = Ch3_3
+		SccLocalPath9 = Ch3_3
+		SccProjectUniqueName10 = C:\\Users\\quanb_000\\Documents\\leisure\\quanbenSoft\\qsharp\\QSharp\\QSharp.Scheme.Classical.Graphs\\QSharp.Scheme.Classical.Graphs.csproj
+		SccProjectName10 = ../../qsharp/QSharp/QSharp.Scheme.Classical.Graphs
+		SccLocalPath10 = C:\\Users\\quanb_000\\Documents\\leisure\\quanbenSoft\\qsharp\\QSharp\\QSharp.Scheme.Classical.Graphs
+		SccProjectUniqueName11 = C:\\Users\\quanb_000\\Documents\\leisure\\quanbenSoft\\qsharp\\QSharp\\QSharpTest\\QSharpTest.csproj
+		SccProjectName11 = ../../qsharp/QSharp/QSharpTest
+		SccLocalPath11 = C:\\Users\\quanb_000\\Documents\\leisure\\quanbenSoft\\qsharp\\QSharp\\QSharpTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01504F3A-BD1A-418D-8034-391D65D67895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01504F3A-BD1A-418D-8034-391D65D67895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01504F3A-BD1A-418D-8034-391D65D67895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01504F3A-BD1A-418D-8034-391D65D67895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E67A58-3A9A-4DBD-9763-C37741E27474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E67A58-3A9A-4DBD-9763-C37741E27474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E67A58-3A9A-4DBD-9763-C37741E27474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E67A58-3A9A-4DBD-9763-C37741E27474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A390E2-9B0F-4F29-822C-5E2B2545EC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A390E2-9B0F-4F29-822C-5E2B2545EC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A390E2-9B0F-4F29-822C-5E2B2545EC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A390E2-9B0F-4F29-822C-5E2B2545EC33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84753239-2A44-47EC-B432-FE22FE3799D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84753239-2A44-47EC-B432-FE22FE3799D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84753239-2A44-47EC-B432-FE22FE3799D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84753239-2A44-47EC-B432-FE22FE3799D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1550A20-85B0-4006-8AE6-6DA22E17A15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1550A20-85B0-4006-8AE6-6DA22E17A15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1550A20-85B0-4006-8AE6-6DA22E17A15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1550A20-85B0-4006-8AE6-6DA22E17A15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9377843B-EDF7-410C-BCA4-6C0C8F1B0B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9377843B-EDF7-410C-BCA4-6C0C8F1B0B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9377843B-EDF7-410C-BCA4-6C0C8F1B0B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9377843B-EDF7-410C-BCA4-6C0C8F1B0B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B63A119-3E4D-49C4-818F-41C62AF21684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B63A119-3E4D-49C4-818F-41C62AF21684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B63A119-3E4D-49C4-818F-41C62AF21684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B63A119-3E4D-49C4-818F-41C62AF21684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31928B7A-8650-4911-AF62-9526EAEFD6A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31928B7A-8650-4911-AF62-9526EAEFD6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31928B7A-8650-4911-AF62-9526EAEFD6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31928B7A-8650-4911-AF62-9526EAEFD6A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77B7E5AF-5146-4D52-9B5C-D510917181EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B7E5AF-5146-4D52-9B5C-D510917181EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B7E5AF-5146-4D52-9B5C-D510917181EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B7E5AF-5146-4D52-9B5C-D510917181EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A5C8BE-EF54-48E7-A170-F3E6C5561E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A5C8BE-EF54-48E7-A170-F3E6C5561E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A5C8BE-EF54-48E7-A170-F3E6C5561E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A5C8BE-EF54-48E7-A170-F3E6C5561E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D366B80-049D-4734-BA87-78FBA06B4876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D366B80-049D-4734-BA87-78FBA06B4876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D366B80-049D-4734-BA87-78FBA06B4876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D366B80-049D-4734-BA87-78FBA06B4876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
